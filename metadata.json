@@ -1,0 +1,6 @@
+{
+  "name": "DayTask",
+  "description": "A modern, fast, lightweight day-to-day task manager, routine planner, calendar, and productivity tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
