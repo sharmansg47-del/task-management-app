@@ -14,7 +14,11 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/placeholder/app-preview.png" width="80%" alt="App Preview" />
+<img src="image/app-preview.jpg" width="200" alt="TaskFlow App Preview" />
+
+<br/>
+
+**Your all-in-one productivity companion for Android**
 
 <br/><br/>
 
